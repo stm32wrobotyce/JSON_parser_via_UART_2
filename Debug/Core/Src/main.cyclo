@@ -1,0 +1,5 @@
+main.c:84:5:main	26
+main.c:257:6:SystemClock_Config	4
+main.c:303:6:HAL_UARTEx_RxEventCallback	2
+main.c:313:6:HAL_TIM_PWM_PulseFinishedCallback	2
+main.c:326:6:Error_Handler	1
